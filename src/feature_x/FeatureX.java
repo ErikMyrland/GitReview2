@@ -5,6 +5,7 @@ public class FeatureX {
 
         // This is the first feature x file
 
+        // some additional changes are added
 
     }
 }
